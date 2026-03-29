@@ -9,6 +9,7 @@ class UniversalVacuums(StateVacuumEntity):
             VacuumEntityFeature.CLEAN_AREA | 
             VacuumEntityFeature.START | 
             VacuumEntityFeature.STOP |
+            VacuumEntityFeature.CLEAN_AREA
             VacuumEntityFeature.RETURN_HOME |
             VacuumEntityFeature.REMOTE_POSITION |
             VacuumEntityFeature.STATE
