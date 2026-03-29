@@ -1,0 +1,8 @@
+{
+  "domain": "universal_vacuums",
+  "name": "Universal Vacuums",
+  "codeowners": ["@your_username"],
+  "dependencies": ["vacuum"],
+  "iot_class": "local_polling",
+  "version": "1.0.1"
+}
